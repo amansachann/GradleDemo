@@ -31,3 +31,7 @@ The above command used to create a new jar file of your project in `build/libs` 
 java -jar ./build/libs/filename.jar
 ```
 The above command will execute your code.
+
+### Homework
+- Try to build and run the jar using command line for the okhttp code 
+- Integrate retrofit to achieve same functionality as we did using okhttp
